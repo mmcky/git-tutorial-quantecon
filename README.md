@@ -1,3 +1,3 @@
 # git-tutorial-quantecon
 
-We are now adding a change.
+We are now adding a new change.
